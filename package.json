@@ -4,7 +4,11 @@
   "description": "A starter express boilerplate'",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "bin": {
+    "express-boil": "./index.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +25,10 @@
   "bugs": {
     "url": "https://github.com/VyshnavCJ/express-generate-boilerplate/issues"
   },
-  "homepage": "https://github.com/VyshnavCJ/express-generate-boilerplate#readme"
+  "homepage": "https://github.com/VyshnavCJ/express-generate-boilerplate#readme",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.1.5"
+  }
 }
