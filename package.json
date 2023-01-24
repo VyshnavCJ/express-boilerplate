@@ -1,0 +1,25 @@
+{
+  "name": "express-generate-boilerplate",
+  "version": "1.0.0",
+  "description": "A starter express boilerplate'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VyshnavCJ/express-generate-boilerplate.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "express",
+    "node",
+    "express-boilerplate"
+  ],
+  "author": "Vyshnav C J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VyshnavCJ/express-generate-boilerplate/issues"
+  },
+  "homepage": "https://github.com/VyshnavCJ/express-generate-boilerplate#readme"
+}
