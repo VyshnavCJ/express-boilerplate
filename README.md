@@ -29,10 +29,6 @@ It will prompt a question, asking you for project name.
 
 And boom!! you have your node express boilerplate
 
-### Demo
-
-![Alt Text](https://media.giphy.com/media/HA8Zr99sd8IXHYgGt1/giphy.gif)
-
 ## Authors
 
 - [Vyshnav C J](https://www.linkedin.com/in/vyshnavcj/)
