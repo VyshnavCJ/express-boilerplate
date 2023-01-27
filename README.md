@@ -1,5 +1,3 @@
-# Project Title
-
 <h1 align=center> node-express-generate-boilerplate. 🚀 </h1>
 
 ## Boilerplate generator for Node.js, Express
