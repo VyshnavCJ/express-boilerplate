@@ -1,7 +1,7 @@
 {
   "name": "express-generate-boilerplate",
   "version": "1.0.0",
-  "description": "A starter express boilerplate'",
+  "description": "A simple boilerplate generator for your node express backend project! 🚀",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
