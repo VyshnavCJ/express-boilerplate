@@ -9,7 +9,7 @@ I used to find myself copy-pasting the same directory and file structures over a
 Install node-expressgen with npm globally
 
 ```bash
-  npm install node-expressgen -g
+  npm install express-generate-boilerplate -g
 ```
 
 ## Usage/Examples
