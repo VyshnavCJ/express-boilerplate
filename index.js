@@ -11,7 +11,7 @@ inquirer.prompt(questions).then((answers) => {
   const projectName = answers["project-name"];
   const separateFolder = answers["separate-folder"];
 
-  const template = `${__dirname}/template/`;
+  const template = `${__dirname}/boilerplate/`;
 
   if (separateFolder === "Y") {
     fs.mkdirSync(`${currentDir}/${projectName}`);

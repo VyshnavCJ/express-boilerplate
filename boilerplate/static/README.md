@@ -1,1 +1,1 @@
-### Frond-end related files
+### Front-end related files
