@@ -1,6 +1,6 @@
 {
   "name": "express-generate-boilerplate",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple boilerplate generator for your node express backend project! 🚀",
   "main": "index.js",
   "scripts": {
